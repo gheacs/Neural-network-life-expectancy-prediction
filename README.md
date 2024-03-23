@@ -2,7 +2,7 @@
 ## Project Overview
 This project aims to predict life expectancy in various countries using a dataset provided by the World Health Organization (WHO)’s Global Health Observatory (GHO). The analysis considers a range of indicators from 2000 to 2015, including health, economic, and social factors.
 
-##vData Description
+## Data Description
 The life expectancy dataset encompasses several indicators for all countries, capturing aspects such as:
 
 1. Immunization factors
